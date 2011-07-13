@@ -1,0 +1,4 @@
+<?php
+unset ($data['heading']);
+
+?>

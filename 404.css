@@ -1,0 +1,207 @@
+/*
+kollane RGB 253 236 157
+Tsinine RGB   6   6  83
+*/
+
+/* align */
+.center{
+ text-align: center;
+}
+
+/* ***** */
+.allkiri {
+ font-size: 12px;
+ font-family: Arial, Helvetica;
+ font-weight: normal;
+ font-style: oblique;
+ text-align: right;
+ padding: 0px;
+ margin: 0px;
+ margin-bottom: 10px;
+}
+
+.subsub {
+ font-size: 12px;
+ font-family: Arial, Helvetica;
+ font-weight: bold;
+ padding-top: 10px;
+}
+
+img{
+ margin:0px;
+ padding-left: 25px;
+}
+
+p .sisu{
+ margin:0px;
+ padding-top: 2px;
+ padding-bottom: 2px;
+}
+
+html {
+ padding: 5pt;
+/* cursor: crosshair;*/
+}
+
+body {
+ padding: 0pt;
+ background-color: #fffff6;
+ color: #000022;
+}
+
+p, pk, ul, li, td {
+ font-size: 12px;
+ font-family: Arial, Helvetica;
+ font-weight: normal;
+}
+
+.plain, p, pk, ul, li, td {
+ text-align: left;
+ text-align: justify;
+ font-size: 12px;
+ font-family: Arial, Helvetica;
+ font-weight: normal;
+}
+
+em {
+ font-size: smaller;
+ letter-spacing: 0.01cm;
+ font-weight: bold;
+}
+
+strong {
+ letter-spacing: 2px;
+}
+
+h1, .pk1, .title {
+ font-size: 20px;
+ text-align: center;
+ font-family: Arial, Helvetica;
+ font-weight: bold;
+}
+
+h2, .pk2, .subtitle {
+ font-size: 18px;
+ font-family: Arial, Helvetica;
+ font-weight: bold;
+}
+
+h3, .pk3, .subsub {
+ font-size: 16px;
+ font-family: Arial, Helvetica;
+ font-weight: bold;
+}
+
+td a, li a, h1 a, .pk1 a, .title a, h2 a, .pk2 a, .subtitle a, h3 a, .subsub a, .pk3 a {
+ color: #004400;
+ text-decoration: none;
+}
+
+td a:hover, li a:hover, h1 a:hover, .pk1 a:hover, .title a:hover, h2 a:hover, .pk2 a:hover, .subtitle a:hover, h3 a:hover, .subsub a:hover, .pk3 a:hover {
+ color: #009900;
+ text-decoration: none;
+}
+
+li a {
+ font-weight: bold;
+}
+
+.kalender td {
+ font-size: 9px;
+ font-family: Verdana, Helvetica;
+ font-weight: normal;
+}
+
+.cd {
+ background-image: url(http://www.tants.ee/img/citydance_back.gif);
+}
+
+.desc {
+ font-size: 12px;
+ font-family: Arial, Helvetica;
+}
+
+.exp {
+ letter-spacing: 0.1cm;
+}
+
+.foot {
+ font-size: 9px;
+ font-weight: bold;
+ font-family: Arial, Helvetica;
+ text-align: right;
+}
+
+.footleft a {
+ font-size: 9px;
+ font-weight: bold;
+ font-family: Verdana, Helvetica;
+ text-align: left;
+ text-decoration: none;
+}
+
+.menu {
+ text-align: center;
+ color: #fdec9d;
+ font-size: 14px;
+ font-family: Arial, Helvetica;
+ font-weight: bold;
+}
+
+.menu a {
+ color: #224;
+ text-decoration: underline;
+/* cursor: crosshair;*/
+}
+
+#mb {
+ text-decoration: underline;
+ font-weight: bold;
+ font-size: 11px;
+}
+
+
+.menu a:hover {
+ background-color: #cb7;
+ color: #000;
+ text-decoration: none;
+}
+
+.path {
+ background-image: url(http://www.tants.ee/img/logod/promo.jpg);
+ padding-left: 5pt;
+ color: #0a0a54;
+ font-size: 8pt;
+ font-family: Arial, Helvetica;
+ font-weight: normal;
+ text-align: left;
+}
+
+.path a {
+ color: #0a0a54;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+.path a:hover {
+ text-decoration: underline;
+}
+
+.right {
+ text-align: right;
+}
+
+.sisu {
+ background-image: url(http://www.tants.ee/img/tile.gif);
+}
+
+.sisu a img {
+ padding-right: 8pt;
+ padding-left: 2pt;
+}
+
+.temp {
+ background-image: url(http://www.tants.ee/img/tile.gif);
+ background-attachment: fixed;
+}
+

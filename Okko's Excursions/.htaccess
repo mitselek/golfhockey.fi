@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteBase "/Okko's Excursions/"
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([^/\.]+)$ index.php?page=$1 [PT,L]
+
+ErrorDocument 404 /404.php
+
